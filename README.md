@@ -1,4 +1,4 @@
-# ASM: Generador de nÚmeros pseudo-aleatorios
+# ASM: Generador de números pseudo-aleatorios
 ## Pasos de ejecución
 ***
 1. Ejecute el programa ripes.exe
